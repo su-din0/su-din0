@@ -10,6 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; 🚀 [Crowdigital](https://github.com/crowdigital)  
 &nbsp;&nbsp;&nbsp;&nbsp; 🌍 [Codeuniverse](https://github.com/codeuniverse-dev)  
 &nbsp;&nbsp;&nbsp;&nbsp; 🔐 [Penterep](https://github.com/Penterep)  
+&nbsp;&nbsp;&nbsp;&nbsp; 🛡️ [BUTCA – Cyber Arena](https://www.utko.fekt.vut.cz/en/butca-cyber-arena)  
 
 📬 **Let's connect!**  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jdin0) 
